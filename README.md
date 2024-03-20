@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-jackson-TX
 - 👀 I’m interested in product management and data analysis
-- 🌱 I’m currently completing the data anaalyst course through Google
+- 🌱 I’m currently completing the data analyst course through Google
 - 💞️ I’m looking to collaborate on building a network of data analysts and product managers to fill in gaps in understanding
 - 📫 you can reach me at jamesm.jacksonatx@gmail.com or 936.463.5894
 - 😄 Pronouns: He/Him
